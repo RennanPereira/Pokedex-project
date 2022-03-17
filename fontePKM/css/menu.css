@@ -1,0 +1,33 @@
+.menu{
+max-width: 200px;
+}
+
+.menu .pokemon {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    padding: 0 5px;
+    background-color: #6B727A;
+    color: #FFFFFF;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    cursor: pointer;
+    min-height: 70px;
+    box-shadow: rgba(100, 100, 111, 0.2)0px 7px 29px 0px;
+    transition: 0.15s ease-in-out;
+    
+}
+
+.menu .pokemon:hover {
+    transform: scale(1.05);
+}
+
+.menu .pokemon img {
+    max-width: 25%;
+    border-radius: 50%;
+}
+
+.menu .pokemon.ativo {
+    background-color: #fa666b;
+}
