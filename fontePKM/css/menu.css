@@ -19,6 +19,10 @@ max-width: 200px;
     
 }
 
+.menu span{
+    padding: 0px 20px;
+}
+
 .menu .pokemon:hover {
     transform: scale(1.05);
 }
