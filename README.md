@@ -30,5 +30,8 @@ Projeto desenvolvido durante evento MapaDev Week do Dev em Dobro.
 
 ---
 ## 💜 Contato
-Email: rennanpereira.contato@gmail.com
-Linkedin: https://www.linkedin.com/in/rennan-santos-pereira/
+Email:
+rennanpereira.contato@gmail.com
+
+Linkedin:
+https://www.linkedin.com/in/rennan-santos-pereira/
